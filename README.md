@@ -7,7 +7,7 @@
 
 ## About me
 
-My name is João Lucas. I'm a Mobile Developer, currently working with iOS Development.
+My name is <b>João Lucas</b>. I'm a Mobile Developer, currently working with iOS Development.
 
 * I graduated in Computer Technician from [**Colégio Técnico Opção**](http://site.colegiotecnicoopcao.com.br/) school, Brazil
 * My favorite languages are <b>Swift, Kotlin and Java</b>
