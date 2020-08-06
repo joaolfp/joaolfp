@@ -7,7 +7,6 @@
 
 My name is <b>João Lucas</b>. I'm a Mobile Developer, currently working with iOS Development.
 
-* I graduated in Computer Technician from [**Colégio Técnico Opção**](http://site.colegiotecnicoopcao.com.br/) school, Brazil
 * My favorite languages are <b>Swift, Kotlin and Java</b>
 * I am currently studying and going deeper into <b>SwiftUI</b>
 * My open source code that I have are [**ViewState**](https://github.com/joaolfp/ViewState) and [**DecodeAlamofire**](https://github.com/joaolfp/DecodeAlamofire) for iOS
