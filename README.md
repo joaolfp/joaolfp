@@ -5,7 +5,6 @@
 
 ## About me
 
-My name is <b>João Lucas</b>. I'm a Mobile Developer, currently working with iOS Development.
-
+My name is <b>João Lucas</b>. I'm a Mobile Developer
 * My open source code that I have are [**ViewState**](https://github.com/joaolfp/ViewState), [**DataLife**](https://github.com/joaolfp/DataLife) and [**DecodeAlamofire**](https://github.com/joaolfp/DecodeAlamofire) for iOS
 * My portfolio is [**https://joaolfp.github.io/**](https://joaolfp.github.io/) 
